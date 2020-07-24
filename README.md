@@ -12,7 +12,9 @@
 
 #### Some statistics
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=Wadaboa&count_private=true&show_icons=true)](https://github.com/Wadaboa/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaboa&hide=html)](https://github.com/Wadaboa/)
-
+<a href="https://github.com/Wadaboa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadaboa&hide=html" />
+</a>
+<a href="https://github.com/Wadaboa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wadaboa&count_private=true&show_icons=true&line_height=33" alt="Wadaboa's github stats" />
+</a>
