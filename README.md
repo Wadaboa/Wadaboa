@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Wadaboa/Wadaboa/master/wave.gif" width="30px">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wadaboa.Wadaboa)
+[![Linkedin: alessio-falai](https://img.shields.io/badge/-Alessio%20Falai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-falai/)](https://www.linkedin.com/in/alessio-falai/)
 
 #### 👨 About me
 - 🤖 I'm currently an Artificial Intelligence student at University of Bologna
