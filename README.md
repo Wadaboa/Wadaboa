@@ -22,8 +22,8 @@
 
 #### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll + Github Pages + Travis CI](alessiofalai.it/blog/jekyll-ghpages-travis)
-- [Java interfaces vs. Scala traits](alessiofalai.it/blog/scala-traits)
-- [The Euler number in blob analysis](alessiofalai.it/blog/euler-number)
-- [Propositional logic](alessiofalai.it/blog/propositional-logic)
+- [Jekyll + Github Pages + Travis CI](https://alessiofalai.it/blog/jekyll-ghpages-travis)
+- [Java interfaces vs. Scala traits](https://alessiofalai.it/blog/scala-traits)
+- [The Euler number in blob analysis](https://alessiofalai.it/blog/euler-number)
+- [Propositional logic](https://alessiofalai.it/blog/propositional-logic)
 <!-- BLOG-POST-LIST:END -->
