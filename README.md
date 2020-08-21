@@ -27,3 +27,7 @@
 - [The Euler number in blob analysis](https://alessiofalai.it/blog/euler-number)
 - [Propositional logic](https://alessiofalai.it/blog/propositional-logic)
 <!-- BLOG-POST-LIST:END -->
+
+#### ⚡ Recent GitHub activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
