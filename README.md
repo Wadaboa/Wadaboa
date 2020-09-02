@@ -31,7 +31,7 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com//nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com//nchammas/flintrock)
+1. ❗️ Opened issue [#16](https://github.com//h4de5/home-assistant-vimar/issues/16) in [h4de5/home-assistant-vimar](https://github.com//h4de5/home-assistant-vimar)
 2. 🗣 Commented on [#313](https://github.com//nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com//nchammas/flintrock)
 3. 🗣 Commented on [#313](https://github.com//nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com//nchammas/flintrock)
 4. 🗣 Commented on [#313](https://github.com//nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com//nchammas/flintrock)
