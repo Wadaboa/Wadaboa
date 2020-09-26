@@ -31,9 +31,9 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-2. ❗️ Opened issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-3. 🗣 Commented on [#313](https://github.com/nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com/nchammas/flintrock)
-4. 🗣 Commented on [#16](https://github.com/h4de5/home-assistant-vimar/issues/16) in [h4de5/home-assistant-vimar](https://github.com/h4de5/home-assistant-vimar)
-5. ❗️ Opened issue [#16](https://github.com/h4de5/home-assistant-vimar/issues/16) in [h4de5/home-assistant-vimar](https://github.com/h4de5/home-assistant-vimar)
+1. ❗️ Closed issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+2. ❗️ Closed issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+3. ❗️ Opened issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+4. ❗️ Opened issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+5. 🗣 Commented on [#313](https://github.com/nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com/nchammas/flintrock)
 <!--END_SECTION:activity-->
