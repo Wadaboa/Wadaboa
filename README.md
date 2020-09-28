@@ -31,9 +31,9 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-2. ❗️ Closed issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-3. ❗️ Opened issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-4. ❗️ Opened issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
-5. 🗣 Commented on [#313](https://github.com/nchammas/flintrock/issues/313) in [nchammas/flintrock](https://github.com/nchammas/flintrock)
+1. 🎉 Merged PR [#1](https://github.com/Wadaboa/computer-architectures-project/pull/1) in [Wadaboa/computer-architectures-project](https://github.com/Wadaboa/computer-architectures-project)
+2. 💪 Opened PR [#1](https://github.com/Wadaboa/computer-architectures-project/pull/1) in [Wadaboa/computer-architectures-project](https://github.com/Wadaboa/computer-architectures-project)
+3. ❗️ Closed issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+4. ❗️ Closed issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
+5. ❗️ Opened issue [#2](https://github.com/Wadaboa/ner-annotator/issues/2) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
 <!--END_SECTION:activity-->
