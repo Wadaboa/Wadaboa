@@ -31,9 +31,4 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ManivannanMurugavel/spacy-ner-annotator/issues/6) in [ManivannanMurugavel/spacy-ner-annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
-2. 🗣 Commented on [#6](https://github.com/ManivannanMurugavel/spacy-ner-annotator/issues/6) in [ManivannanMurugavel/spacy-ner-annotator](https://github.com/ManivannanMurugavel/spacy-ner-annotator)
-3. 🎉 Merged PR [#1](https://github.com/Wadaboa/computer-architectures-project/pull/1) in [Wadaboa/computer-architectures-project](https://github.com/Wadaboa/computer-architectures-project)
-4. 💪 Opened PR [#1](https://github.com/Wadaboa/computer-architectures-project/pull/1) in [Wadaboa/computer-architectures-project](https://github.com/Wadaboa/computer-architectures-project)
-5. ❗️ Closed issue [#1](https://github.com/Wadaboa/ner-annotator/issues/1) in [Wadaboa/ner-annotator](https://github.com/Wadaboa/ner-annotator)
 <!--END_SECTION:activity-->
