@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3228](https://github.com/pytorch/vision/issues/3228) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 🗣 Commented on [#3228](https://github.com/pytorch/vision/issues/3228) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
