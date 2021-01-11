@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3238](https://github.com/pytorch/vision/pull/3238) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 🗣 Commented on [#3238](https://github.com/pytorch/vision/issues/3238) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
