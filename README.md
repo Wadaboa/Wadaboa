@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3266](https://github.com/pytorch/vision/pull/3266) in [pytorch/vision](https://github.com/pytorch/vision)
+1. ❗️ Opened issue [#9699](https://github.com/huggingface/transformers/issues/9699) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
