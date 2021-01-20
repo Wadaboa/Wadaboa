@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9699](https://github.com/huggingface/transformers/issues/9699) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. ❗️ Closed issue [#3228](https://github.com/pytorch/vision/issues/3228) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
