@@ -22,11 +22,11 @@
 
 #### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tackling the Flatland challenge](https://alessiofalai.it/blog/flatland-challenge)
 - [How to create an impressive GitHub profile README](https://alessiofalai.it/blog/github-profile-readme)
 - [Jekyll + Github Pages + Travis CI](https://alessiofalai.it/blog/jekyll-ghpages-travis)
 - [Java interfaces vs. Scala traits](https://alessiofalai.it/blog/scala-traits)
 - [The Euler number in blob analysis](https://alessiofalai.it/blog/euler-number)
-- [Propositional logic](https://alessiofalai.it/blog/propositional-logic)
 <!-- BLOG-POST-LIST:END -->
 
 #### ⚡ Recent GitHub activity
