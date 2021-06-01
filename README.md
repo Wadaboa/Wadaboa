@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3228](https://github.com/pytorch/vision/issues/3228) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 🗣 Commented on [#1](https://github.com/Wadaboa/woo-num-slider/issues/1) in [Wadaboa/woo-num-slider](https://github.com/Wadaboa/woo-num-slider)
 <!--END_SECTION:activity-->
