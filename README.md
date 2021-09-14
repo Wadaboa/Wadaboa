@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Wadaboa/woo-num-slider/issues/1) in [Wadaboa/woo-num-slider](https://github.com/Wadaboa/woo-num-slider)
+1. 🗣 Commented on [#1](https://github.com/Wadaboa/bayesian-net-classifier/issues/1) in [Wadaboa/bayesian-net-classifier](https://github.com/Wadaboa/bayesian-net-classifier)
 <!--END_SECTION:activity-->
