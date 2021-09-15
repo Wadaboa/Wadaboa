@@ -31,5 +31,5 @@
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Wadaboa/bayesian-net-classifier/issues/1) in [Wadaboa/bayesian-net-classifier](https://github.com/Wadaboa/bayesian-net-classifier)
+1. 🗣 Commented on [#1](https://github.com/Wadaboa/3d-bpp/issues/1) in [Wadaboa/3d-bpp](https://github.com/Wadaboa/3d-bpp)
 <!--END_SECTION:activity-->
