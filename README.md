@@ -1,15 +1,42 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Wadaboa/Wadaboa/master/wave.gif" width="30px">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wadaboa.Wadaboa)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Linkedin: alessio-falai](https://img.shields.io/badge/-Alessio%20Falai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessio-falai/)](https://www.linkedin.com/in/alessio-falai/)
 
 #### 👨 About me
-- 🤖 I'm currently an Artificial Intelligence student at University of Bologna
-- ⚙️ What I'm mostly using in this period: `.py`, `.ipynb`, `.scala`, `.java`
-- 🌍 I like to write blog posts about my projects and findings at [alessiofalai.it](https://alessiofalai.it)
-- ⌨️ I like mechanical keyboards, a lot
-- 🌱 I love the **Open Source** community
-- 📸 In my free time I also enjoy travelling and taking pictures
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class MySelf:
+
+    def __init__(self):
+        self.name = "👀 Alessio Falai"
+        self.languages = ["🇮🇹 it_IT", "🇬🇧 en_GB"]
+        self.education = {
+            "BSc": {
+                "Degree": "🖥️ Computer Science",
+                "University": "🟦 Florence"
+            },
+            "MSc": {
+                "Degree": "🤖 Artificial Intelligence",
+                "University": "🟥 Bologna"
+            }
+        ]
+        self.roles = ["👨‍🔬 Applied/Data Scientist", "🧑‍💻 Software Engineer"]
+        self.hobbies = ["⌨️ Mechanical keyboards", "📸 Photography", "🌍 Travelling"]
+        self.interests = ["💬 TTS", "🌳 GNNs"]
+        self.website = ["🌐 https://alessiofalai.it"]
+
+    def hello(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = MySelf()
+me.hello()
+```
 
 #### 📊 Some statistics
 
