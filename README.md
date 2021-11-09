@@ -26,7 +26,7 @@ class MySelf:
             }
         ]
         self.roles = ["👨‍🔬 Applied/Data Scientist", "🧑‍💻 Software Engineer"]
-        self.hobbies = ["⌨️ Mechanical keyboards", "📸 Photography", "🌍 Travelling"]
+        self.hobbies = ["⌨️ Mechanical keyboards", "📸 Photography", "🌍 Travelling", "🎒 Backpacks"]
         self.interests = ["💬 TTS", "🌳 GNNs"]
         self.website = ["🌐 https://alessiofalai.it"]
 
