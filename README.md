@@ -58,5 +58,5 @@ me.hello()
 
 #### ⚡ Recent GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Wadaboa/titanet/issues/1) in [Wadaboa/titanet](https://github.com/Wadaboa/titanet)
+1. ❗️ Closed issue [#2](https://github.com/Wadaboa/titanet/issues/2) in [Wadaboa/titanet](https://github.com/Wadaboa/titanet)
 <!--END_SECTION:activity-->
