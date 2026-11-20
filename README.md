@@ -4,4 +4,4 @@ Hi, I'm Alessio, a PhD student at the [Music Technology Group](https://www.upf.e
 
 Before that I was an Applied Scientist at Amazon, taking speech generation models for Alexa and beyond from research to production, with a keen interest in multilingual and multimodal systems.
 
-[Website](https://alessiofalai.it) · [Publications](https://alessiofalai.it/academia/) · [Google Scholar](https://scholar.google.com/citations?user=vO0z7VIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/alessio-falai) · [CV](https://github.com/Wadaboa/cv-resume/raw/master/cv.pdf) · [Email](mailto:falai.alessio@gmail.com)
+[Website](https://alessiofalai.it) · [Google Scholar](https://scholar.google.com/citations?user=vO0z7VIAAAAJ) · [LinkedIn](https://www.linkedin.com/in/alessio-falai) · [CV](https://github.com/Wadaboa/cv-resume/raw/master/cv.pdf) · [Email](mailto:falai.alessio@gmail.com)
